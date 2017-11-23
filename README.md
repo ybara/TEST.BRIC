@@ -1,0 +1,2 @@
+# TEST.BRIC
+FIST.A1
